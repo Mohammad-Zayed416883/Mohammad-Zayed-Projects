@@ -134,6 +134,7 @@ nav .menu a{
     font-size: 18px;
     color: #757575;
     line-height: 30px;
+    /* max-width: 821px; */
 }
 .info-card h4 {
     font-size: 18px;
@@ -170,11 +171,12 @@ nav .menu a{
 }
 
 .resume-container {
-    margin: 113px auto 0;
+    margin: 113px auto 50px;
     /* padding-top: 80px; */
     display: flex;
     gap: 71px;
     justify-content: center;
+
 }
 .resume-container .section-title{
     margin-bottom: 30px;
